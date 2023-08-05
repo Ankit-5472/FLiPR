@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "959780080750",
+    "project_id": "flipr-aa040",
+    "storage_bucket": "flipr-aa040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959780080750:android:5f6517fcaa0f7d4cffaa7f",
+        "android_client_info": {
+          "package_name": "com.example.flipr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959780080750-rpd8uegh0b81vva0g686hr87rda97trv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlq5E2c48RZKSkTWY0vjBnP1fFsqP0EjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959780080750-rpd8uegh0b81vva0g686hr87rda97trv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959780080750-gsuc1ifpaaajj9riageqnc0a5v820dre.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flipr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
